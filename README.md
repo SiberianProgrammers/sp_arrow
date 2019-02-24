@@ -1,2 +1,2 @@
 # sp_arrow
-Light server for voting
+Light server for voting.
