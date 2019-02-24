@@ -1,2 +1,3 @@
 # sp_arrow
-Light server for voting.
+Light monolith server for voting.
+Легковесный монолитный сервер для голосований.
